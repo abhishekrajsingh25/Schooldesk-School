@@ -1,4 +1,4 @@
-.env files
+#.env files
 
 DATABASE_URL=""
 
