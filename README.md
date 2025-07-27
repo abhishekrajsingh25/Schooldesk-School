@@ -1,4 +1,4 @@
-# 🏫 School Management System with Student, Teacher, and Admin Panels
+# 🏫 School Management System with Student, Teacher, Parent and Admin Panels
 
 This is a full-stack **School Management System** designed to manage and streamline academic workflows across students, teachers, parents, and administrators. It includes dedicated panels for **Students**, **Teachers**, **Parents**, and an **Admin Dashboard** to manage users, attendance, timetables, grades, assignments and announcements.
 
