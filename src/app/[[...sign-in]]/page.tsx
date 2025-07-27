@@ -62,7 +62,7 @@ const LoginPage = () => {
             Sign In
           </SignIn.Action>
           <h3 className="text-gray-500">
-            Enter "admin" in both username and password.
+            {`Enter "admin" in both username and password.`}
           </h3>
         </SignIn.Step>
       </SignIn.Root>
