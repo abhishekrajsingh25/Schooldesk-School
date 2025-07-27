@@ -148,5 +148,3 @@ To see the live website:
 * 👉 <a href="https://schooldesk-school-abhishekrajsingh.vercel.app/">Click Here</a>
 
 ---
-
-Let me know if you’d like me to auto-generate the Prisma schema or setup code as well!
