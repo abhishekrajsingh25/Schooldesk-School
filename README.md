@@ -1,26 +1,11 @@
-# Lama Dev School Management Dashboard
+#.env files
 
-## Getting Started
+DATABASE_URL=""
 
-First, run the development server:
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=""
+CLERK_SECRET_KEY=""
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+NEXT_PUBLIC_CLERK_SIGN_IN_URL = /
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
-- [Next.js](https://nextjs.org/learn)
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME = ""
+NEXT_PUBLIC_CLOUDINARY_API_KEY = ""
